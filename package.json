@@ -1,0 +1,26 @@
+{
+  "name": "conwaysuite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jest.config.js",
+  "dependencies": {
+    "@types/jest": "^25.2.1",
+    "jest": "^25.3.0",
+    "ts-jest": "^25.3.1",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ts-jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amehmeto/ConwaySuite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amehmeto/ConwaySuite/issues"
+  },
+  "homepage": "https://github.com/amehmeto/ConwaySuite#readme"
+}
